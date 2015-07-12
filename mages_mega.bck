@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0  Date: 28/06/2015 1:50:52 AM
+#
+$CMP ESP-01
+D pins for ESP-01
+$ENDCMP
+#
+$CMP ESP-12
+D pins for ESP-12
+$ENDCMP
+#
+$CMP ESP8266
+D pins for ESP8266
+$ENDCMP
+#
+$CMP LD1117
+D LD1117
+F https://cdn.shopify.com/s/files/1/0045/8932/files/ESP1SH-v3_0-schematic.pdf?2196987882516426693
+$ENDCMP
+#
+$CMP QRE1113
+D QRE1113
+$ENDCMP
+#
+#End Doc Library
